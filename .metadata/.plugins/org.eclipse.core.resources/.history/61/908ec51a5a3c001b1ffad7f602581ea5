@@ -3,12 +3,8 @@ public class Variable01 {
 	public static void main(String[] args) {
 		int num1; // int型の変数num1を宣言
 		String str1; //String型の変数str1を宣言
-		 //↪ ここまでで値をいれる箱を準備している
-
 		num1 = 10; // num1を初期化
 		str1 = "Hello World!";  // str1を初期化
-		 //↪︎ここで変数の初期化（宣言した変数に初期値を代入）
-
 		System.out.println(num1);
 		System.out.println(str1);
 
