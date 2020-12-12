@@ -6,7 +6,6 @@ public class Chapter04 {
 
 		String name; // String型の変数nameを宣言
 		name = "木戸風太です"; // nameを初期化(自分の名前の初期値として代入)
-		System.out.println(name);
 		name = "Java学習中"; // nameに再代入
 		System.out.println(name);
 		System.out.println(LUCK_NUMBER);
