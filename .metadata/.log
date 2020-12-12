@@ -543,3 +543,45 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:24:38.152
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hDyvfxRY => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:06.317
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:06.317
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4c9e6a7a[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:06.318
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:08.114
+!MESSAGE Boot LS startup time from start to initialized: 1795ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:08.199
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.lAvRxwxzisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:08.200
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:08.200
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:08.200
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:08.200
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:08.200
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.lAvRxwxz => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:08.201
+!MESSAGE classpath=17 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:08.201
+!MESSAGE buffering callback sts4.classpath.lAvRxwxz JavaWcp false 17
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:08.202
+!MESSAGE executing callback sts4.classpath.lAvRxwxz 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-12 18:26:08.229
+!MESSAGE executing callback sts4.classpath.lAvRxwxz SUCCESS [終了しました]

@@ -1,0 +1,12 @@
+
+public class Chapter04 {
+	public static void main(String[] args) {
+
+		final int LUCK_NUMBER; // int型の定数LUCK_NUMBERを宣言
+		String name; // String型の変数nameを宣言
+		name = "木戸風太です"; // nameを初期化
+		num =
+
+	}
+
+}
