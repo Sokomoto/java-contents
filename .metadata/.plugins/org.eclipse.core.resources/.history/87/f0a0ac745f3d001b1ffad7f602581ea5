@@ -16,12 +16,13 @@ public class Chapter05 {
 	System.out.println(integer1);
 	System.out.println(char1);
 
-	int[] chap5 = new int[5];
-	chap5[0] =  0;
-	chap5[1] =  10;
-	chap5[2] =  20;
-	chap5[3] =  30;
-	chap5[4] =  40;
-	System.out.println(chap5[3]);
+	int[] chapter5 = new int[5];
+	chapter5[0] =  00;
+	chapter5[1] =  01;
+	chapter5[2] =  02;
+	chapter5[3] =  03;
+	chapter5[4] =  04;
+	int int2 = chapter5[3];
+	System.out.println(chapter5[3]);
 	}
 }
