@@ -24,8 +24,8 @@ public class Ready03 {
 		System.out.println(c); // それぞれの値は、a が「6」で c が「5」
 
 		// 代入演算子
-		int d;
-		d = 10; // d = 10 :dに10を代入
+		int d = 10;
+		//d = 10; // d = 10 :dに10を代入
 		d += 5; // d = 15 :dにd+5の結果を代入
 		System.out.println(d);
 		d -= 3; // d = 12 :dにd-3の結果を代入
@@ -39,20 +39,7 @@ public class Ready03 {
 
 		// 関係(比較)演算子
 		int e = 5;
-		boolean f;
 
-		f = e < 5; // f = false
-		System.out.println(f);
-		f = e <= 5;  // c = true
-		System.out.println(f);
-		f = e > 4;   // c = true
-		System.out.println(f);
-		f = e >= 6;  // c = false
-		System.out.println(f);
-		f = e == 5;  // c = true
-		System.out.println(f);
-		f = e != 5;  // c = false
-		System.out.println(f);
 
 	}
 

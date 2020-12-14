@@ -39,20 +39,7 @@ public class Ready03 {
 
 		// 関係(比較)演算子
 		int e = 5;
-		boolean f;
 
-		f = e < 5; // f = false
-		System.out.println(f);
-		f = e <= 5;  // c = true
-		System.out.println(f);
-		f = e > 4;   // c = true
-		System.out.println(f);
-		f = e >= 6;  // c = false
-		System.out.println(f);
-		f = e == 5;  // c = true
-		System.out.println(f);
-		f = e != 5;  // c = false
-		System.out.println(f);
 
 	}
 
