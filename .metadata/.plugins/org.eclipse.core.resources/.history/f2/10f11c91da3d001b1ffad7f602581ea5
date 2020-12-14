@@ -84,22 +84,8 @@ public class Ready03 {
 		// 文字列の等価比較
 		String m = "applePie";
 		String n = "applePie";
-		boolean o;
 		o = m == n;  // q = true
 		System.out.println(o);
-
-		String p = "applePie";
-		String q = "apple";
-		String r = q + "Pie";
-		o = p == r;  // o = false
-		System.out.println(o);
-
-		String s = "applePie";
-		String t = new String("applePie");
-		//o = s == t;  // o = false
-		o = s.equals(t); // o = true 文字列を比較したい場合はequalsを使用
-		System.out.println(o);
-
 	}
 
 }

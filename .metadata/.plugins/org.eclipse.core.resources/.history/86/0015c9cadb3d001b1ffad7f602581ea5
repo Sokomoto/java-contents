@@ -100,6 +100,7 @@ public class Ready03 {
 		o = s.equals(t); // o = true 文字列を比較したい場合はequalsを使用
 		System.out.println(o);
 
+
 	}
 
 }

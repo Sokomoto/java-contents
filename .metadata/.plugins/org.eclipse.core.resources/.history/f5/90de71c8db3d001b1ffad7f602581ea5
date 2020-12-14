@@ -97,8 +97,9 @@ public class Ready03 {
 		String s = "applePie";
 		String t = new String("applePie");
 		//o = s == t;  // o = false
-		o = s.equals(t); // o = true 文字列を比較したい場合はequalsを使用
+		o = s.equals(t); // o = true
 		System.out.println(o);
+
 
 	}
 
