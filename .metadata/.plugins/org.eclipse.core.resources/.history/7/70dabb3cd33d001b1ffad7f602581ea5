@@ -21,9 +21,7 @@ public class Ready03 {
 
 		b = 5;
 		c = b++; // aをcに代入後に、aがインクリメントされる
-		System.out.println(c); // それぞれの値は、a が「6」で c が「5」
-
-		// 代入演算子
+		System.out.println(c);
 	}
 
 }

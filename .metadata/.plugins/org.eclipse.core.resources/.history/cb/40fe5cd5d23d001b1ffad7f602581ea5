@@ -1,0 +1,22 @@
+
+public class Ready03 {
+	public static void main(String[] args) {
+
+		// インクリメント・デクリメント演算子
+		int a;
+		a = 10;
+		a++; // a=11
+		System.out.println(a);
+		a = 10;
+		a--; // a=9
+		System.out.println(a);
+
+		// 前置と後置
+		int a;
+		int c;
+
+		a = 5;
+		c = ++a; // aをインクリメント後にaがcに代入される
+	}
+
+}
