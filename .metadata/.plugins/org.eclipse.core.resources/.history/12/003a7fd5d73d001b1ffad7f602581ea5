@@ -73,13 +73,8 @@ public class Ready03 {
 		System.out.println(i);
 
 		// 文字列の連結
-		String j = "100";
-		String k = "200";
-		String l;
-		l = j + k; // l = 100200
-		System.out.println(l);
-		l = "あ" + "い"; // l = あい
-		System.out.println(l);
+		String j;
+		String k;
 
 	}
 

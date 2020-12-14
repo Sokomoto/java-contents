@@ -75,11 +75,9 @@ public class Ready03 {
 		// 文字列の連結
 		String j = "100";
 		String k = "200";
-		String l;
+		String l = c;
 		l = j + k; // l = 100200
-		System.out.println(l);
-		l = "あ" + "い"; // l = あい
-		System.out.println(l);
+		l = "あ" + "い"; l = あい
 
 	}
 

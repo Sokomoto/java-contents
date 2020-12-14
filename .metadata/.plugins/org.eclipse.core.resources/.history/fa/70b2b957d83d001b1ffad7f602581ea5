@@ -79,7 +79,6 @@ public class Ready03 {
 		l = j + k; // l = 100200
 		System.out.println(l);
 		l = "あ" + "い"; // l = あい
-		System.out.println(l);
 
 	}
 
