@@ -1,7 +1,7 @@
 
 public class Dowhile01 {
 	public static void main(String[] args) {
-		int number = 51;
+		int number = 1;
 		// do-while文 :ループ開始
 		do {
 			// ブロック:
