@@ -1,0 +1,10 @@
+
+public class Chapter04_2 {
+	public static void main(String[] args) {
+		String name = "Kido Futa";
+		System.out.println(name);
+		name = "Java勉強中";
+
+	}
+
+}
