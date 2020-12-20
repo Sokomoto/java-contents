@@ -8,15 +8,6 @@ public class Chapter05_02 {
 		System.out.println(d);
 		System.out.println(b);
 
-		Float f = 1.114f;
-		Integer i = 7;
-		Character c = 'あ';
-		System.out.println(f);
-		System.out.println(i);
-		System.out.println(c);
-
-		int [] array = { 10,20,30,40,50 };
-		System.out.println(array[3]);
 
 	}
 

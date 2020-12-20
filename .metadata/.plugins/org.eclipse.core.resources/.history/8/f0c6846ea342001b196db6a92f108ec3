@@ -15,8 +15,7 @@ public class Chapter05_02 {
 		System.out.println(i);
 		System.out.println(c);
 
-		int [] array = { 10,20,30,40,50 };
-		System.out.println(array[3]);
+
 
 	}
 

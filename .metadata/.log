@@ -980,3 +980,6 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:05:01.393
 !MESSAGE executing callback sts4.classpath.zUKHykAr SUCCESS [終了しました]
+
+!ENTRY org.eclipse.ui 2 2 2020-12-20 18:08:03.062
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
