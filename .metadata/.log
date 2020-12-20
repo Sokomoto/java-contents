@@ -227,3 +227,756 @@ Binding(COMMAND+-,
 
 !ENTRY org.eclipse.ui 2 2 2020-12-19 17:09:14.142
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:52:16.685
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TdGoyIRq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:52:16.688
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.TdGoyIRq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:52:16.689
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:52:16.689
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TdGoyIRq => OK
+!SESSION 2020-12-19 21:53:55.590 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201012-0320
+java.version=11.0.9
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/kidofuta/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/kidofuta/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.178
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:01.179
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.eclipse.jface 2 0 2020-12-19 21:54:01.342
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-19 21:54:01.342
+!MESSAGE COMMAND+CTRL+F の競合が発生しました:
+Binding(COMMAND+CTRL+F,
+	ParameterizedCommand(Command(com.xored.glance.commands.open,Glance を開く,
+		Glance 検索パネルを開く,
+		Category(com.xored.glance.ui.commands,Glance,Glance 検索コマンド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4b1b2255,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,cocoa,system)
+Binding(COMMAND+CTRL+F,
+	ParameterizedCommand(Command(org.eclipse.ui.window.fullscreenmode,全画面の切り替え,
+		全画面と通常のウィンドウを切り替えます,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4965454c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,cocoa,system)
+
+!ENTRY org.eclipse.jface 2 0 2020-12-19 21:54:02.725
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-19 21:54:02.725
+!MESSAGE COMMAND+SHIFT+T の競合が発生しました:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,型を開く,
+		型を Java エディターで開きます,
+		Category(org.eclipse.ui.category.navigate,ナビゲート,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74597c37,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,ワークスペース内のシンボルにジャンプ,
+		,
+		Category(org.eclipse.lsp4e.category,言語サーバー,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@cd9ce76,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-19 21:54:02.725
+!MESSAGE COMMAND+SHIFT+- の競合が発生しました:
+Binding(COMMAND+SHIFT+-,
+	ParameterizedCommand(Command(org.eclipse.ui.window.splitEditor,エディター分割の切り替え,
+		現在のアクティブなエディターを分割または結合します。,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@421c057a,
+		[Parameter(Splitter.isHorizontal,向き,null,false)],,true),[org.eclipse.core.commands.Parameterization@6102fa90]),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,ja,,system)
+Binding(COMMAND+SHIFT+-,
+	ParameterizedCommand(Command(org.eclipse.ui.window.splitEditor,エディター分割の切り替え,
+		現在のアクティブなエディターを分割または結合します。,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@421c057a,
+		[Parameter(Splitter.isHorizontal,向き,null,false)],,true),[org.eclipse.core.commands.Parameterization@6102fa90]),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:08.138
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:08.140
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@199efc58[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:08.143
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:08.175
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.jface 2 0 2020-12-19 21:54:09.065
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-19 21:54:09.065
+!MESSAGE COMMAND+- の競合が発生しました:
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(org.eclipse.gef.zoom_out,ズームアウト,
+		ズームアウト,
+		Category(org.eclipse.gef.category.view,ビュー,ビュー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6da0228a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.zoomOut,ズームアウト,
+		テキストのズーム・アウト - テキスト・エディターのデフォルト・フォント・サイズを小さくします,
+		Category(org.eclipse.ui.category.textEditor,テキスト編集,テキスト編集コマンド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@61a72b91,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(junit.extensions.eclipse.quick.pde.command.PDEJUnitRunAction,JUnit Plug-in テスト,
+		PDE JUnitでテストを実行します．,
+		Category(junit.extensions.eclipse.quick.command.category,Quick JUnit,Quick JUnitアクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7d3818ab,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:10.965
+!MESSAGE Boot LS startup time from start to initialized: 2815ms
+
+!ENTRY org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.026
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.027
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.027
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.027
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.027
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.027
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.027
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.027
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.027
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:54:11.027
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:11.160
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BCsfkYNoisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:11.164
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:11.166
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:11.166
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:11.167
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:11.167
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BCsfkYNo => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:11.171
+!MESSAGE classpath=17 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:11.172
+!MESSAGE buffering callback sts4.classpath.BCsfkYNo JavaWcp false 17
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:11.173
+!MESSAGE executing callback sts4.classpath.BCsfkYNo 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:11.198
+!MESSAGE executing callback sts4.classpath.BCsfkYNo SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:13.484
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BCsfkYNo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:13.485
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.BCsfkYNo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:13.485
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-19 21:54:13.486
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BCsfkYNo => OK
+
+!ENTRY org.eclipse.ui 2 2 2020-12-19 21:54:15.897
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2020-12-19 21:55:08.291 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201012-0320
+java.version=11.0.9
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/kidofuta/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/kidofuta/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2020-12-19 21:55:13.136
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.136
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.136
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.136
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.136
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.136
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.136
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.136
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.136
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-19 21:55:13.137
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.eclipse.jface 2 0 2020-12-19 21:55:13.280
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-19 21:55:13.280
+!MESSAGE COMMAND+CTRL+F の競合が発生しました:
+Binding(COMMAND+CTRL+F,
+	ParameterizedCommand(Command(com.xored.glance.commands.open,Glance を開く,
+		Glance 検索パネルを開く,
+		Category(com.xored.glance.ui.commands,Glance,Glance 検索コマンド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@31f9f9b3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,cocoa,system)
+Binding(COMMAND+CTRL+F,
+	ParameterizedCommand(Command(org.eclipse.ui.window.fullscreenmode,全画面の切り替え,
+		全画面と通常のウィンドウを切り替えます,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7730da00,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,cocoa,system)
+
+!ENTRY org.eclipse.jface 2 0 2020-12-19 21:55:14.335
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-19 21:55:14.335
+!MESSAGE COMMAND+SHIFT+T の競合が発生しました:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,型を開く,
+		型を Java エディターで開きます,
+		Category(org.eclipse.ui.category.navigate,ナビゲート,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@403f6c04,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,ワークスペース内のシンボルにジャンプ,
+		,
+		Category(org.eclipse.lsp4e.category,言語サーバー,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2693e39c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-19 21:55:14.335
+!MESSAGE COMMAND+SHIFT+- の競合が発生しました:
+Binding(COMMAND+SHIFT+-,
+	ParameterizedCommand(Command(org.eclipse.ui.window.splitEditor,エディター分割の切り替え,
+		現在のアクティブなエディターを分割または結合します。,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4bbabec8,
+		[Parameter(Splitter.isHorizontal,向き,null,false)],,true),[org.eclipse.core.commands.Parameterization@6102fa90]),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,ja,,system)
+Binding(COMMAND+SHIFT+-,
+	ParameterizedCommand(Command(org.eclipse.ui.window.splitEditor,エディター分割の切り替え,
+		現在のアクティブなエディターを分割または結合します。,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4bbabec8,
+		[Parameter(Splitter.isHorizontal,向き,null,false)],,true),[org.eclipse.core.commands.Parameterization@6102fa90]),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.ui 2 2 2020-12-19 21:55:21.968
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2020-12-20 18:03:57.380 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201012-0320
+java.version=11.0.9
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/kidofuta/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/kidofuta/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2020-12-20 18:04:02.916
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.916
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.916
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.916
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.916
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.916
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.916
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.916
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:02.917
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.eclipse.jface 2 0 2020-12-20 18:04:03.060
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-20 18:04:03.060
+!MESSAGE COMMAND+CTRL+F の競合が発生しました:
+Binding(COMMAND+CTRL+F,
+	ParameterizedCommand(Command(com.xored.glance.commands.open,Glance を開く,
+		Glance 検索パネルを開く,
+		Category(com.xored.glance.ui.commands,Glance,Glance 検索コマンド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@31f9f9b3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,cocoa,system)
+Binding(COMMAND+CTRL+F,
+	ParameterizedCommand(Command(org.eclipse.ui.window.fullscreenmode,全画面の切り替え,
+		全画面と通常のウィンドウを切り替えます,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7730da00,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,cocoa,system)
+
+!ENTRY org.eclipse.jface 2 0 2020-12-20 18:04:04.344
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-20 18:04:04.344
+!MESSAGE COMMAND+SHIFT+T の競合が発生しました:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,型を開く,
+		型を Java エディターで開きます,
+		Category(org.eclipse.ui.category.navigate,ナビゲート,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2b68c59b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,ワークスペース内のシンボルにジャンプ,
+		,
+		Category(org.eclipse.lsp4e.category,言語サーバー,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@326d39fd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-20 18:04:04.344
+!MESSAGE COMMAND+SHIFT+- の競合が発生しました:
+Binding(COMMAND+SHIFT+-,
+	ParameterizedCommand(Command(org.eclipse.ui.window.splitEditor,エディター分割の切り替え,
+		現在のアクティブなエディターを分割または結合します。,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4bbabec8,
+		[Parameter(Splitter.isHorizontal,向き,null,false)],,true),[org.eclipse.core.commands.Parameterization@6102fa90]),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,ja,,system)
+Binding(COMMAND+SHIFT+-,
+	ParameterizedCommand(Command(org.eclipse.ui.window.splitEditor,エディター分割の切り替え,
+		現在のアクティブなエディターを分割または結合します。,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4bbabec8,
+		[Parameter(Splitter.isHorizontal,向き,null,false)],,true),[org.eclipse.core.commands.Parameterization@6102fa90]),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:04:58.192
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:04:58.193
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@11236ff8[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.next'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.previous'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.source.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.add.import'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.organize.imports'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.refactor.quickMenu'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.rename.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.move.element'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.modify.method.parameters'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.inline'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.method'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.extract.local.variable'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.edit.text.java.open.hierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.TypeHierarchy'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.PackageExplorer'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.SourceView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+!SUBENTRY 1 org.eclipse.ui 2 0 2020-12-20 18:04:58.195
+!MESSAGE 未定義コマンドへバインドできません: plug-in='org.eclipse.wst.jsdt.ui', id='org.eclipse.wst.jsdt.ui.JavadocView'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:04:58.196
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:04:58.216
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:04:58.893
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:04:58.894
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@11236ff8[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:04:58.894
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.eclipse.jface 2 0 2020-12-20 18:04:59.542
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-20 18:04:59.542
+!MESSAGE COMMAND+- の競合が発生しました:
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(org.eclipse.gef.zoom_out,ズームアウト,
+		ズームアウト,
+		Category(org.eclipse.gef.category.view,ビュー,ビュー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@473dbad,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.zoomOut,ズームアウト,
+		テキストのズーム・アウト - テキスト・エディターのデフォルト・フォント・サイズを小さくします,
+		Category(org.eclipse.ui.category.textEditor,テキスト編集,テキスト編集コマンド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2447e2e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(junit.extensions.eclipse.quick.pde.command.PDEJUnitRunAction,JUnit Plug-in テスト,
+		PDE JUnitでテストを実行します．,
+		Category(junit.extensions.eclipse.quick.command.category,Quick JUnit,Quick JUnitアクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@445944ea,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:05:01.215
+!MESSAGE Boot LS startup time from start to initialized: 2318ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:05:01.366
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zUKHykArisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:05:01.370
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:05:01.371
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:05:01.372
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:05:01.372
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:05:01.372
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zUKHykAr => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:05:01.375
+!MESSAGE classpath=17 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:05:01.375
+!MESSAGE buffering callback sts4.classpath.zUKHykAr JavaWcp false 17
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:05:01.376
+!MESSAGE executing callback sts4.classpath.zUKHykAr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-20 18:05:01.393
+!MESSAGE executing callback sts4.classpath.zUKHykAr SUCCESS [終了しました]
