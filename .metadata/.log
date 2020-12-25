@@ -2200,3 +2200,57 @@ Binding(COMMAND+-,
 
 !ENTRY org.eclipse.ui 2 2 2020-12-24 17:05:44.820
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-24 17:11:58.404
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fqhomNXs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-24 17:11:58.404
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.fqhomNXs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-24 17:11:58.405
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-24 17:11:58.405
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.fqhomNXs => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:48.043
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:48.044
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@151dd5d5[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:48.045
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:50.690
+!MESSAGE Boot LS startup time from start to initialized: 2642ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:50.801
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hbqMEvEuisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:50.802
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:50.802
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:50.802
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:50.803
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:50.803
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hbqMEvEu => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:50.803
+!MESSAGE classpath=17 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:50.804
+!MESSAGE buffering callback sts4.classpath.hbqMEvEu JavaWcp false 17
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:50.804
+!MESSAGE executing callback sts4.classpath.hbqMEvEu 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-25 16:55:50.841
+!MESSAGE executing callback sts4.classpath.hbqMEvEu SUCCESS [終了しました]
