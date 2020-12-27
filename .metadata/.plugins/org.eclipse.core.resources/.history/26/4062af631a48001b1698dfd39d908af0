@@ -1,7 +1,7 @@
 
 public class Chapter07_2 {
 	public static void main(String[] args) {
-		int km = 20;
+		int km = 2;
 		if (km < 5) {
 			System.out.println("とても近いです");
 		}
@@ -11,10 +11,6 @@ public class Chapter07_2 {
 
 		else if (km < 15) {
 			System.out.println("遠いです");
-		}
-
-		else {
-			System.out.println("とても遠いです");
 		}
 	}
 
