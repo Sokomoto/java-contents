@@ -1,0 +1,11 @@
+
+public class java_practice1 {
+	public static void main(String[]args) {
+		int num = 1;
+		for (int num1 = 0; num1 < 10; num1++) {
+			num *= 2;
+			System.out.println(num);
+		}
+	}
+
+}
