@@ -10,7 +10,6 @@ public class java_practice2 {
 			if (num % 2 == 0) {
 				// ↓ 偶数だった場合インクリメントしカウント
 				++even;
-				// ↓ 偶数のみの和を計算
 				sum += num;
 			}
 		}
