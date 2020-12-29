@@ -8,7 +8,7 @@ public class java_practice2 {
 			// ↓ 偶数か判別
 			if (num % 2 == 0) {
 				// ↓ 偶数だった場合カウント
-				even++;
+				++even;
 			}
 		}
 		// ↑ 上記の偶数判別と個数カウント後に↓にて表示
