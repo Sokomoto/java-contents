@@ -16,8 +16,7 @@ public class Chap08_2 {
 			if (loop % 2 == 0) {
 				continue;
 			}
-			System.out.println(loop);
-
+			System.out.print(loop);
 		}
 	}
 

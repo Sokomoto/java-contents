@@ -17,7 +17,6 @@ public class Chap08_2 {
 				continue;
 			}
 			System.out.println(loop);
-
 		}
 	}
 
