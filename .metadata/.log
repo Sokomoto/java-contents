@@ -3059,3 +3059,15 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-12-30 18:23:17.389
 !MESSAGE executing callback sts4.classpath.DIEPixdj SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-01 20:02:14.104
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DIEPixdj
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-01 20:02:14.109
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.DIEPixdj
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-01 20:02:14.109
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-01 20:02:14.110
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DIEPixdj => OK
