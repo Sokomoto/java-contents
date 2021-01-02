@@ -3071,3 +3071,57 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-01 20:02:14.110
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DIEPixdj => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:25.769
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:25.771
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@630b41c5[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:25.771
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:28.259
+!MESSAGE Boot LS startup time from start to initialized: 2488ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:28.344
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.gGblBNirisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:28.344
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:28.345
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:28.345
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:28.345
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:28.345
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.gGblBNir => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:28.347
+!MESSAGE classpath=17 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:28.348
+!MESSAGE buffering callback sts4.classpath.gGblBNir JavaWcp false 17
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:28.348
+!MESSAGE executing callback sts4.classpath.gGblBNir 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:28.381
+!MESSAGE executing callback sts4.classpath.gGblBNir SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:34.288
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.gGblBNir
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:34.289
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.gGblBNir
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:34.289
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-02 17:56:34.290
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.gGblBNir => OK
