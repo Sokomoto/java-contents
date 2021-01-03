@@ -3346,3 +3346,6 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-03 15:54:16.381
 !MESSAGE executing callback sts4.classpath.dfFUAgEF SUCCESS [終了しました]
+
+!ENTRY org.eclipse.ui 2 2 2021-01-03 15:56:44.376
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)

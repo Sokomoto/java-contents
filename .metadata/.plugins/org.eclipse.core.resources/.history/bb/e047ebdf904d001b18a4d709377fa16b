@@ -4,7 +4,6 @@ public class chap8_practice {
 		int num = 1;
 		while (num < 5) {
 			System.out.println(num * num);
-			num++;
 		}
 	}
 }
