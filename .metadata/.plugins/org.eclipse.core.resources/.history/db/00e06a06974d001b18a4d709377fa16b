@@ -6,7 +6,7 @@ public class java_pracitce4 {
 		for (int i = 1; i <= 10; i++) {
 			if (i % 2 == 0) {
 				even++;
-				sum += i;
+
 			}
 		}
 		System.out.println("偶数の数は " + even + " 個です ");
