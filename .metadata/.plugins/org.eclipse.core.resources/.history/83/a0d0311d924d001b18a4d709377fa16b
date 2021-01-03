@@ -8,8 +8,8 @@ public class chap8_practice {
 		}
 
 		int[] array = {1, 4, 9, 16};
-		for (int num2 = 0; num2 < array.length; num2++ ) {
-			System.out.println(array[num2]);
+		for (int num2 = 0; num2 <= array.length; num2++ ) {
+			System.out.println(num2);
 		}
 	}
 }
