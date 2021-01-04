@@ -7,9 +7,9 @@ public class java_practice6 {
 		for (int num = 0; num < array.length; num++) {
 			num += 5;
 			if (num % 2 == 0) {
-				System.out.print(even);
+				System.out.print("偶数: " + even);
 			}
-			System.out.print(odd);
+			System.out.print("奇数: " + odd);
 		}
 
 	}
