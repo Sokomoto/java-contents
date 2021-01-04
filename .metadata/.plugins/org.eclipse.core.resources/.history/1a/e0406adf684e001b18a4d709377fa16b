@@ -12,7 +12,7 @@ public class java_practice6 {
 				System.out.print("偶数: " + i);
 			}
 			else {
-				System.out.print("奇数: " + i);
+				System.out.println("奇数: " + i);
 			}
 		}
 		//System.out.println("偶数: " + even);

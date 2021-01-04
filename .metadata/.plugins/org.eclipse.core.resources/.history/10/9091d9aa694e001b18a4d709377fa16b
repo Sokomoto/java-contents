@@ -9,6 +9,7 @@ public class java_practice6 {
 		for (int num = 0; num < array.length; num++) {
 			i += 5;
 			if (i % 2 == 0) {
+				System.out.print("偶数: ");
 				System.out.print("偶数: " + i);
 			}
 			else {
