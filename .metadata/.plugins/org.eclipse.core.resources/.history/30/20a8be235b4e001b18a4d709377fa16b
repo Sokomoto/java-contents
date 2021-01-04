@@ -1,17 +1,19 @@
 
 public class java_practice6 {
 	public static void main(String[]args) {
-		int[] array = new int[20];
 		int even = 0;
 		int odd = 0;
-		for (int num = 0; num < array.length; num++) {
-			array[num] = 5;
-			System.out.print(array[num]);
+		int[] array = new int [20];
+		for (int num = 0; num < 20; num++) {
+			array[num] = array[num] + 5;
+			even++;
+			System.out.print(even);
 			//if (num % 2 == 0) {
 				//System.out.print(even);
 			//}
 			//System.out.print(odd);
 		}
+
 	}
 
 }
