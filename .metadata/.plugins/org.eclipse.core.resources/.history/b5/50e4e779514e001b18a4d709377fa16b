@@ -5,6 +5,7 @@ public class java_practice6 {
 		int odd = 0;
 		int[] array = new int [20];
 		for (int num : array) {
+			num += 5;
 			System.out.print(num);
 			//if (num % 2 == 0) {
 				//System.out.print(even);

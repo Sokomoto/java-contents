@@ -4,12 +4,12 @@ public class java_practice6 {
 		int even = 0;
 		int odd = 0;
 		int[] array = new int [20];
-		for (int num : array) {
-			System.out.print(num);
-			//if (num % 2 == 0) {
-				//System.out.print(even);
-			//}
-			//System.out.print(odd);
+		for (int num = 0; num < array.length; num++) {
+			num += 5;
+			if (num % 2 == 0) {
+				System.out.print(even);
+			}
+			System.out.print(odd);
 		}
 
 	}
