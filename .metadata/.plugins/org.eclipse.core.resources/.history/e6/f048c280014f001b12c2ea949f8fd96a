@@ -20,7 +20,7 @@ public class java_practice6 {
 			odd += 5;
 			if (odd % 2 != 0) {
 				System.out.print(odd);
-				if (odd < 95) {
+				if (odd <= 95) {
 					System.out.print(",");
 				}
 			}

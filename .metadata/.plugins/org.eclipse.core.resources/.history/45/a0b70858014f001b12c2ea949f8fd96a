@@ -19,9 +19,8 @@ public class java_practice6 {
 		for (int num = 0; num < array.length; num++) {
 			odd += 5;
 			if (odd % 2 != 0) {
-				System.out.print(odd);
 				if (odd < 95) {
-					System.out.print(",");
+				System.out.print(odd + ",");
 				}
 			}
 		}
