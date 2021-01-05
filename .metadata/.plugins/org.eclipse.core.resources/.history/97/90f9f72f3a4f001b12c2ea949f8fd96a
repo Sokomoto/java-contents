@@ -1,7 +1,7 @@
 
 public class Chapter07_3 {
 	public static void main(String[]args) {
-		int km = 16;
+		int km = 3;
 		if (km <= 5) {
 			System.out.println("とても近いです。");
 		}
