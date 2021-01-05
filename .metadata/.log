@@ -4349,3 +4349,57 @@ Binding(COMMAND+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 14:22:03.724
 !MESSAGE executing callback sts4.classpath.qPkRjqNR SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 14:26:59.103
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.qPkRjqNR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 14:26:59.103
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.qPkRjqNR
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 14:26:59.104
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 14:26:59.104
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.qPkRjqNR => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:43.620
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:43.621
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@687fa4d0[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:43.621
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:45.922
+!MESSAGE Boot LS startup time from start to initialized: 2299ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:46.002
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.vMznbJjEisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:46.003
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:46.003
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:46.003
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:46.003
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:46.004
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.vMznbJjE => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:46.004
+!MESSAGE classpath=17 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:46.005
+!MESSAGE buffering callback sts4.classpath.vMznbJjE JavaWcp false 17
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:46.005
+!MESSAGE executing callback sts4.classpath.vMznbJjE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-05 16:53:46.039
+!MESSAGE executing callback sts4.classpath.vMznbJjE SUCCESS [終了しました]
