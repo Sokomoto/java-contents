@@ -9,10 +9,10 @@ public class java_practice6 {
 		for (int num = 0; num < array.length; num++) {
 			even += 5;
 			if (even % 2 == 0) {
-				System.out.print(even + (even < 100 ? "," : ""));
-				//if (even < 100) {
-					//System.out.print(",");
-				//}
+				System.out.print(even);
+				if (even < array.length - 1) {
+					System.out.print(",");
+				}
 			}
 		}
 
