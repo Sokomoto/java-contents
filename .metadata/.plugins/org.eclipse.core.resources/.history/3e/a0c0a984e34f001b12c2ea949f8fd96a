@@ -18,7 +18,6 @@ public class java_practice09 {
 		System.out.println(x * 2);
 		System.out.println(x * 3);
 		System.out.println(x * 4);
-		//上記自身の解答と同じだが、こちらの方が簡潔
 	}
 
 }
