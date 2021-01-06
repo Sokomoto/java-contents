@@ -6,8 +6,6 @@ public class java_practice08 {
 		int z;
 
 		z = x * y;
-
-		System.out.println(z);
 	}
 
 }
