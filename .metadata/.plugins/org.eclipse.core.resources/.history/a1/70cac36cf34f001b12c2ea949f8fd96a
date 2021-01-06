@@ -2,7 +2,7 @@ package kidofuta;
 
 public class java_practice4 {
 	public static void main(String[]args) {
-		int x = 10;
+		int x = 5;
 		int y = 10;
 
 		if (y < x) {
