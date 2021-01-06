@@ -16,7 +16,6 @@ public class java_practice07 {
 		t = x;
 		x = y;
 		y = t;
-		// 再代入した方が早い気がするのは知識不足だからだろうか
 
 		System.out.println("x= " + x + ",y= " + y);
 	}
