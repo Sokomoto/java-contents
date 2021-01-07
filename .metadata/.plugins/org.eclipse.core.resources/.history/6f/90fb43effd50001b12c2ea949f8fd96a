@@ -10,14 +10,7 @@ public class java_practice10 {
 
 		int[] array = {1, 4, 9, 16};
 		for (int i = 0; i < array.length; i++) {
-			System.out.println(array[i]);
-		}
-
-		for (int loop : array) {
-			if (loop % 2 == 0) {
-				continue;
-			}
-			System.out.println(loop);
+			System.out.println(array);
 		}
 	}
 
