@@ -1,0 +1,16 @@
+package kidofuta;
+
+public class java_practice09 {
+	public static void main(String[]args) {
+		int sum = 0;
+		int avg = 0;
+
+		for (int i = 1; i <= 10; i++) {
+			sum += i;
+			avg /= 10.0;
+		}
+		System.out.println("合計: " + sum);
+		System.out.println("平均: " + avg);
+	}
+
+}
