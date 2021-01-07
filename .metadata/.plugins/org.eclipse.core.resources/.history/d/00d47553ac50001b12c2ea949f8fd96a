@@ -1,12 +1,11 @@
 package kidofuta;
 
-public class java_practice004_2 {
+public class java_practice004_3 {
 	public static void main(String[]args) {
-		int num = 3;
-		for (int i = 1; i <= 9; i++) {
+		int num = 2;
+		for (int i = 1; i <= 8; i++) {
 			System.out.println(num * i);
 		}
-
 	}
 
 }
