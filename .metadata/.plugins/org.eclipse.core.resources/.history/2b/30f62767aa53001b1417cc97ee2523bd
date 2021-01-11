@@ -10,7 +10,6 @@ public class java_practice20 {
 				evensum += i;
 			}
 		}
-
 		System.out.println("偶数の個数は、" + even + "です。");
 		System.out.println("偶数の合計は、" + evensum + "です。");
 	}
