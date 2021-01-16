@@ -22,7 +22,6 @@ public class java_pravtice19 {
 			if (odd % 2 != 0) {
 				System.out.print(odd + (i < array.length - 2 ? "," : ""));
 			}
-
 		}
 	}
 
