@@ -5,6 +5,7 @@ public class java_practice9 {
 		String s = "SPAM";
 		for (int i = 0; i < 10; i++) {
 			System.out.println(s);
+
 		}
 	}
 
