@@ -11282,3 +11282,239 @@ Binding(COMMAND+-,
 
 !ENTRY org.eclipse.ui 2 2 2021-01-19 15:43:35.449
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-19 15:44:06.604
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CNRgpTvU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-19 15:44:06.605
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.CNRgpTvU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-19 15:44:06.606
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-19 15:44:06.606
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.CNRgpTvU => OK
+!SESSION 2021-01-20 11:11:11.700 -----------------------------------------------
+eclipse.buildId=4.18.0.I20201202-1800
+java.version=15.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/kidofuta/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/kidofuta/.eclipse_keyring
+
+!ENTRY org.eclipse.oomph.setup.ui 4 0 2021-01-20 11:11:13.500
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.oomph.setup.ui [1146]
+  Unresolved requirement: Require-Bundle: org.eclipse.oomph.setup.core; bundle-version="[1.18.0,2.0.0)"; visibility:="reexport"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1845)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1838)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1779)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1743)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1665)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.jface 2 0 2021-01-20 11:11:18.278
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-01-20 11:11:18.278
+!MESSAGE COMMAND+CTRL+F の競合が発生しました:
+Binding(COMMAND+CTRL+F,
+	ParameterizedCommand(Command(com.xored.glance.commands.open,Glance を開く,
+		Glance 検索パネルを開く,
+		Category(com.xored.glance.ui.commands,Glance,Glance 検索コマンド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@67216c33,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,cocoa,system)
+Binding(COMMAND+CTRL+F,
+	ParameterizedCommand(Command(org.eclipse.ui.window.fullscreenmode,全画面の切り替え,
+		全画面と通常のウィンドウを切り替えます,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6ec77cab,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,cocoa,system)
+
+!ENTRY org.eclipse.jface 2 0 2021-01-20 11:11:19.937
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-01-20 11:11:19.937
+!MESSAGE COMMAND+SHIFT+T の競合が発生しました:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,ワークスペース内のシンボルにジャンプ,
+		,
+		Category(org.eclipse.lsp4e.category,言語サーバー,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@48e1e18a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,型を開く,
+		型を Java エディターで開きます,
+		Category(org.eclipse.ui.category.navigate,ナビゲート,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@74997ca6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-01-20 11:11:19.937
+!MESSAGE COMMAND+SHIFT+- の競合が発生しました:
+Binding(COMMAND+SHIFT+-,
+	ParameterizedCommand(Command(org.eclipse.ui.window.splitEditor,エディター分割の切り替え,
+		現在のアクティブなエディターを分割または結合します。,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7a6078d,
+		[Parameter(Splitter.isHorizontal,向き,null,false)],,true),[org.eclipse.core.commands.Parameterization@6102fa90]),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,ja,,system)
+Binding(COMMAND+SHIFT+-,
+	ParameterizedCommand(Command(org.eclipse.ui.window.splitEditor,エディター分割の切り替え,
+		現在のアクティブなエディターを分割または結合します。,
+		Category(org.eclipse.ui.category.window,ウィンドウ,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7a6078d,
+		[Parameter(Splitter.isHorizontal,向き,null,false)],,true),[org.eclipse.core.commands.Parameterization@6102fa90]),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:25.476
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:25.476
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@d3e9b94[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:25.479
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:25.532
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.jface 2 0 2021-01-20 11:11:26.357
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-01-20 11:11:26.357
+!MESSAGE COMMAND+- の競合が発生しました:
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(org.eclipse.gef.zoom_out,ズームアウト,
+		ズームアウト,
+		Category(org.eclipse.gef.category.view,ビュー,ビュー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@44335e28,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(junit.extensions.eclipse.quick.pde.command.PDEJUnitRunAction,JUnit Plug-in テスト,
+		PDE JUnitでテストを実行します．,
+		Category(junit.extensions.eclipse.quick.command.category,Quick JUnit,Quick JUnitアクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@154b3fba,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.zoomOut,ズームアウト,
+		テキストのズーム・アウト - テキスト・エディターのデフォルト・フォント・サイズを小さくします,
+		Category(org.eclipse.ui.category.textEditor,テキスト編集,テキスト編集コマンド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@41a6a728,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:28.221
+!MESSAGE Boot LS startup time from start to initialized: 2737ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:28.395
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hQqlOnShisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:28.399
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:28.401
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:28.402
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:28.402
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:28.403
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hQqlOnSh => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:28.406
+!MESSAGE classpath=17 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:28.407
+!MESSAGE buffering callback sts4.classpath.hQqlOnSh JavaWcp false 17
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:28.407
+!MESSAGE executing callback sts4.classpath.hQqlOnSh 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:28.434
+!MESSAGE executing callback sts4.classpath.hQqlOnSh SUCCESS [終了しました]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:30.643
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hQqlOnSh
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:30.646
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.hQqlOnSh
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:30.646
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:30.648
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hQqlOnSh => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:48.868
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:48.869
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@d3e9b94[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:48.870
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:49.719
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:49.720
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@d3e9b94[org.springframework.tooling.boot.ls:1.23.0.202010230633(id=992)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:49.720
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:51.411
+!MESSAGE Boot LS startup time from start to initialized: 1689ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:51.470
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ItrawjcQisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:51.470
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:51.470
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:51.471
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:51.471
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:51.472
+!MESSAGE classpath=17 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:51.472
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ItrawjcQ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:51.474
+!MESSAGE buffering callback sts4.classpath.ItrawjcQ JavaWcp false 17
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:51.475
+!MESSAGE executing callback sts4.classpath.ItrawjcQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-01-20 11:11:51.495
+!MESSAGE executing callback sts4.classpath.ItrawjcQ SUCCESS [終了しました]
+
+!ENTRY org.eclipse.ui 2 2 2021-01-20 11:15:18.005
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
