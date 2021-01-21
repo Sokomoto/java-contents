@@ -6,7 +6,6 @@ public class java_practice26 {
 			System.out.print(i);
 				if (i < 10) {
 					System.out.print(",");
-
 				}
 		}
 	}
