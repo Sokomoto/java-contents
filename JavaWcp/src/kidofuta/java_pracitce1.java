@@ -6,6 +6,7 @@ public class java_pracitce1 {
 		int y = 10;
 		if (y < x) {
 			System.out.println("xはyより大きい");
+
 		}
 	}
 
